@@ -1,4 +1,3 @@
-# SAE-3.02
 # SAE 3.02 - Solution de consultation centralisée de journaux système
 
 Ce dépôt contient le rendu final de mon projet de SAE 3.02 (BUT Réseaux & Télécoms).
