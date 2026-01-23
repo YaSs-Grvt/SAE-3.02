@@ -17,7 +17,7 @@ L'application répond au cahier des charges avec les fonctionnalités suivantes 
 * **Lecture optimisée** : Récupération des 100 dernières lignes de logs via la commande 'tail' sur SSH (librairie Paramiko), pour éviter de surcharger le réseau.
 * **Gestion des privilèges** : Système de droits géré bit-à-bit (Utilisateur, Gestionnaire, Administrateur).
 
-## Stack Technique
+## Outils utilisés
 
 * Langage : Python 3
 * Framework Web : Flask
